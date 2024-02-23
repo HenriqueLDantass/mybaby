@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726179326586",
+    "project_id": "mybabymylife-5a678",
+    "storage_bucket": "mybabymylife-5a678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726179326586:android:bf8e6505b3e6cd448869c3",
+        "android_client_info": {
+          "package_name": "com.example.mybabymylife"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2n5RFIloirHomeNr_cwP1PPxl5h27Qzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
